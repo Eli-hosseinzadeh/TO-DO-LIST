@@ -16,7 +16,7 @@ It comes with pastel colors, bigger UI elements, and a kawaii vibe to make task 
 
 ---
 
-(screenshot1.png)
+([screenshot1.png](https://github.com/Eli-hosseinzadeh/TO-DO-LIST/blob/0017195b5815d29dca19d21e72968448f003d28c/screenshot1.png))
 
 
 ---
