@@ -16,7 +16,7 @@ It comes with pastel colors, bigger UI elements, and a kawaii vibe to make task 
 
 ---
 
-(Screenshot.png)
+(screenshot1.png)
 
 
 ---
