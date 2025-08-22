@@ -24,8 +24,7 @@ It comes with pastel colors, bigger UI elements, and a kawaii vibe to make task 
 ## 🚀 Demo
 If deployed with GitHub Pages, you can view the live app here:  
 👉 [Live Demo](https://eli-hosseinzadeh.github.io/TO-DO-LIST/)
-[
----
+
 
 ## 🛠️ Technologies Used
 - **HTML5** – structure  
