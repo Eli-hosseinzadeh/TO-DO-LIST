@@ -16,14 +16,14 @@ It comes with pastel colors, bigger UI elements, and a kawaii vibe to make task 
 
 ---
 
-## 📸 Screenshot
-(Add a screenshot of your app here, for example: `![App Screenshot](screenshot.png)`)
+(screenshot.png)
+
 
 ---
 
 ## 🚀 Demo
 If deployed with GitHub Pages, you can view the live app here:  
-👉 [Live Demo](https://eli-hosseinzadeh.github.io/TO-DO-LIST/)
+👉 [[Live Demo](https://eli-hosseinzadeh.github.io/TO-DO-LIST/)](https://eli-hosseinzadeh.github.io/TO-DO-LIST/)
 
 
 ## 🛠️ Technologies Used
